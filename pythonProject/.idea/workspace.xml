@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9568ef3a-4bc3-4961-b3e9-0a998d6f6693" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TEST.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Web-Development/HTML - Personal Site/contact me.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Web-Development/HTML - Personal Site/css/styles.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Web-Development/HTML - Personal Site/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Web-Development/Personal Site/CSS-MySite/styles.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Web-Development/Personal Site/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 10/functions with output.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 10/project day 10.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 11/project day 11.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 12/project day 12.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 12/scope.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 13/debugging.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 13/exercise 1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 13/exercise 2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 13/exercise 3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 14/HigherLowerGame.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 15/project day 15.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 16/OOP.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 16/project day 16.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 17/classes.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 17/project day 17/data.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 17/project day 17/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 17/project day 17/question_model.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 17/project day 17/quiz_brain.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 18/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 18/project day 18.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 19/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 19/project day 19.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 20/project day 20.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 20/snake.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 21/food.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 21/project day 21.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 21/scoreboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 21/snake.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 22/ball.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 22/paddle.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 22/project day 22.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 22/scoreboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 23/turtle-crossing-start/car_manager.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 23/turtle-crossing-start/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 23/turtle-crossing-start/player.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 23/turtle-crossing-start/scoreboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 24/Mail Merge Project Start/Input/Names/invited_names.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 24/Mail Merge Project Start/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 24/fileSystem.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 24/food.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 24/project day 21.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 24/scoreboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 24/snake.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 25/WorkingWithCSV.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 25/us-states-game/project day 25.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 26/DictionaryComprehension.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 26/listComprehension.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 26/project day 26.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 27/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 27/playgorund.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 27/project day 27.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 28/pomodoro/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 29/password-manager/project day 29.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 30/Errors and Exceptions.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 30/json.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 30/password-manager/project day 30.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 31/flash-card-project-start/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 32/SMTP.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 32/birthday-wisher/birthdays.csv" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 32/birthday-wisher/letter_templates/letter_1.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 32/birthday-wisher/letter_templates/letter_2.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 32/birthday-wisher/letter_templates/letter_3.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 32/birthday-wisher/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 32/quotes.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 33/APIs.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 33/issoverhead/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 33/kanye-quotes/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 34/quizzler-app/data.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 34/quizzler-app/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 34/quizzler-app/quiz_brain.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 34/quizzler-app/ui.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 35/rain_alert/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 36/stock-news/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 37/habit-tracker/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 37/playground.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 38/.env" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 38/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 39/flight-deals/data_manager.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 39/flight-deals/flight_data.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 39/flight-deals/flight_search.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 39/flight-deals/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 39/flight-deals/notification_manager.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 40/flight-deals/data_manager.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 40/flight-deals/flight_data.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 40/flight-deals/flight_search.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 40/flight-deals/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 40/flight-deals/notification_manager.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 45/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 45/project day 45.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 46/project day 46.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 47/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 48/interaction.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 48/main(1).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 48/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 48/test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 49/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 50/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 51/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 56/server.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 56/templates/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day 57/My Blog/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 57/My Blog/templates/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 57/learning/server.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 58/tindog/css/styles.css" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 59/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 7/project day 7.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 8/functions.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 8/project day 8.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 9 /Dictionaries.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 9 /Nesting.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day 9 /project day 9.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="1uzYwuUDR8Sii7ugePhoUCe2Gmt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hardik/PycharmProjects/pythonProject/day 59&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day 59" />
+      <recent name="$PROJECT_DIR$/day 56/templates" />
+      <recent name="$PROJECT_DIR$/Web-Development/Personal Site/images" />
+      <recent name="$PROJECT_DIR$/day 40" />
+      <recent name="$PROJECT_DIR$/day 30" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day 59/static" />
+      <recent name="$PROJECT_DIR$/day 59/templates" />
+      <recent name="$PROJECT_DIR$/day 59" />
+      <recent name="$PROJECT_DIR$/day 58/tindog" />
+      <recent name="$PROJECT_DIR$/day 57/My Blog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TEST">
+    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day 59" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 59/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day 34/quizzler-app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 34/quizzler-app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day 19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 19/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project day 8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day 8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 8/project day 8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_brain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day 34/quizzler-app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 34/quizzler-app/quiz_brain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TEST" />
+        <item itemvalue="Python.project day 8" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.quiz_brain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9568ef3a-4bc3-4961-b3e9-0a998d6f6693" name="Default Changelist" comment="" />
+      <created>1625670130721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625670130721</updated>
+      <workItem from="1656396472051" duration="1665000" />
+      <workItem from="1656425875742" duration="5332000" />
+      <workItem from="1656595476397" duration="16000" />
+      <workItem from="1656595497860" duration="41000" />
+      <workItem from="1656741859618" duration="12722000" />
+      <workItem from="1656763280310" duration="5255000" />
+      <workItem from="1656769113336" duration="55000" />
+      <workItem from="1656776627374" duration="5646000" />
+      <workItem from="1656824278563" duration="2391000" />
+      <workItem from="1656846054479" duration="6921000" />
+      <workItem from="1656859278894" duration="3329000" />
+      <workItem from="1656929386818" duration="1282000" />
+      <workItem from="1656932309238" duration="4116000" />
+      <workItem from="1657020361970" duration="3104000" />
+      <workItem from="1657170272470" duration="4283000" />
+      <workItem from="1657191476508" duration="5692000" />
+      <workItem from="1657209500203" duration="2358000" />
+      <workItem from="1657244449634" duration="1205000" />
+      <workItem from="1657245788963" duration="1465000" />
+      <workItem from="1657247309915" duration="360000" />
+      <workItem from="1657258195775" duration="4722000" />
+      <workItem from="1657263399162" duration="2108000" />
+      <workItem from="1657276809179" duration="7548000" />
+      <workItem from="1657293488786" duration="3229000" />
+      <workItem from="1657343382001" duration="9777000" />
+      <workItem from="1657362329743" duration="762000" />
+      <workItem from="1657430371492" duration="1010000" />
+      <workItem from="1657431419316" duration="4469000" />
+      <workItem from="1657537466478" duration="1000" />
+      <workItem from="1658978356051" duration="384000" />
+      <workItem from="1658983444353" duration="240000" />
+      <workItem from="1659082251186" duration="309000" />
+      <workItem from="1659082602654" duration="193000" />
+      <workItem from="1659086046069" duration="41000" />
+      <workItem from="1659087000598" duration="209000" />
+      <workItem from="1659087477012" duration="51000" />
+      <workItem from="1659090594931" duration="1298000" />
+      <workItem from="1659092535391" duration="604000" />
+      <workItem from="1659351016622" duration="27000" />
+      <workItem from="1659351340798" duration="614000" />
+      <workItem from="1659584119882" duration="13000" />
+      <workItem from="1659696165863" duration="11000" />
+      <workItem from="1659706977411" duration="25000" />
+      <workItem from="1659953625839" duration="546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1657201353725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 55" />
+    <SUITE FILE_PATH="coverage/pythonProject$WorkingWithCSV.coverage" NAME="WorkingWithCSV Coverage Results" MODIFIED="1656396714073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 25" />
+    <SUITE FILE_PATH="coverage/pythonProject$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1657176717315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 54" />
+    <SUITE FILE_PATH="coverage/pythonProject$project_day_46.coverage" NAME="project day 46 Coverage Results" MODIFIED="1656782486604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 46" />
+    <SUITE FILE_PATH="coverage/pythonProject$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1659082485116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 34/quizzler-app" />
+    <SUITE FILE_PATH="coverage/pythonProject$project_day_30.coverage" NAME="project day 30 Coverage Results" MODIFIED="1656763760550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 30/password-manager" />
+    <SUITE FILE_PATH="coverage/pythonProject$main__4_.coverage" NAME="main (4) Coverage Results" MODIFIED="1657177334683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 54" />
+    <SUITE FILE_PATH="coverage/pythonProject$post.coverage" NAME="post Coverage Results" MODIFIED="1657264627448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 57/My Blog" />
+    <SUITE FILE_PATH="coverage/pythonProject$interaction.coverage" NAME="interaction Coverage Results" MODIFIED="1656850862170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 48" />
+    <SUITE FILE_PATH="coverage/pythonProject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1659087030397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 59" />
+    <SUITE FILE_PATH="coverage/pythonProject$project_day_8.coverage" NAME="project day 8 Coverage Results" MODIFIED="1659953697401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 8" />
+    <SUITE FILE_PATH="coverage/pythonProject$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1657261295428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 57" />
+    <SUITE FILE_PATH="coverage/pythonProject$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1657436793157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 57/My Blog" />
+    <SUITE FILE_PATH="coverage/pythonProject$test_1_.coverage" NAME="test(1) Coverage Results" MODIFIED="1657202494532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 55" />
+    <SUITE FILE_PATH="coverage/pythonProject$server.coverage" NAME="server Coverage Results" MODIFIED="1657247487667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 56" />
+    <SUITE FILE_PATH="coverage/pythonProject$quiz_brain.coverage" NAME="quiz_brain Coverage Results" MODIFIED="1659082469815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 34/quizzler-app" />
+    <SUITE FILE_PATH="coverage/pythonProject$main_1_.coverage" NAME="main(1) Coverage Results" MODIFIED="1656852952459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 48" />
+    <SUITE FILE_PATH="coverage/pythonProject$project_day_45.coverage" NAME="project day 45 Coverage Results" MODIFIED="1656768989596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day 45" />
+    <SUITE FILE_PATH="coverage/pythonProject$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1659954167708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
